@@ -1,3 +1,10 @@
+/**
+ * @file: TestAvl.java
+ * @description: This program tests the Avl tree and makes sure it correctly adds and deletes nodes
+ * @author: Sam Cho
+ * @date: October 23, 2024
+ */
+
 public class TestAvl {
     // Test program
     public static void main( String [ ] args ) {
@@ -16,6 +23,7 @@ public class TestAvl {
             if (NUMS < SMALL)
                 t.checkBalance();
         }
+       //t.printTree();
 
         // removes odd numbers
         for (int i = 1; i < NUMS; i += 2) {
@@ -43,5 +51,8 @@ public class TestAvl {
             if (t.contains(i))
                 System.out.println("Find error2!");
         }
+
     }
+
+
 }

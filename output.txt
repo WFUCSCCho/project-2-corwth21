@@ -1,0 +1,102 @@
+
+Time to insert sorted array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  3315    184    189    362    545    1123    2595    5144    9319  
+
+Time to insert sorted array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  7096    225    207    530    577    261    211    267    647  
+
+Time to insert shuffled array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  1749    2284    1013    3132    2886    5087    3732    962    869  
+
+Time to insert shuffled array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  4625    1569    1557    4296    5273    1398    2043    2346    1930  
+
+Time to search sorted array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  275    294    361    603    1162    2142    4108    9375    12213  
+
+Time to search sorted array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  238    167    155    246    300    185    290    231    223  
+
+Time to search shuffled array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  983    932    575    1501    1072    1119    1389    547    308  
+
+Time to search shuffled array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  594    449    827    600    905    316    707    874    448  
+Total Number of Nodes: 600
+-----------------------------------------------
+
+Time to insert sorted array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  193    218    316    748    753    3146    3378    35681    15361  
+
+Time to insert sorted array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  6874    245    199    460    438    251    207    250    264  
+
+Time to insert shuffled array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  4219    1760    2220    3037    7303    4995    1228    1480    883  
+
+Time to insert shuffled array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  14116    2169    2486    4669    2714    3397    3206    1443    6055  
+
+Time to search sorted array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  230    341    295    739    1089    2051    3742    10473    12980  
+
+Time to search sorted array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  254    171    187    620    544    176    170    300    153  
+
+Time to search shuffled array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  795    511    599    702    1231    961    1012    1040    751  
+
+Time to search shuffled array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  993    244    400    537    841    482    703    1132    485  
+Total Number of Nodes: 600
+-----------------------------------------------
+
+Time to insert sorted array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  241    215    274    399    760    1614    3211    7101    15006  
+
+Time to insert sorted array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  3932    251    267    462    460    290    236    299    329  
+
+Time to insert shuffled array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  2911    1065    2061    3151    2851    4593    3943    576    826  
+
+Time to insert shuffled array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  5373    1461    2765    4295    2922    1687    1529    2196    594  
+
+Time to search sorted array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  403    305    325    560    1093    1629    4234    8493    11677  
+
+Time to search sorted array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  386    329    314    456    381    383    380    360    407  
+
+Time to search shuffled array into BST (per node): 
+  2    4   8   16  32  64  128 256 512
+  984    497    676    952    643    2198    1346    1053    434  
+
+Time to search shuffled array into AVL (per node): 
+  2    4   8   16  32  64  128 256 512
+  386    852    274    516    948    523    466    1281    388  
+Total Number of Nodes: 600
+-----------------------------------------------
