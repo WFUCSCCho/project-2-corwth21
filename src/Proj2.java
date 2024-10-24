@@ -6,7 +6,6 @@
  * @date: October 23, 2024
  */
 
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Random;
